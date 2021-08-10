@@ -1,0 +1,10 @@
+C:\Users\SharpSX\source\repos\passMan\passMan\bin\Debug\passMan.exe.config
+C:\Users\SharpSX\source\repos\passMan\passMan\bin\Debug\passMan.exe
+C:\Users\SharpSX\source\repos\passMan\passMan\bin\Debug\passMan.pdb
+C:\Users\SharpSX\source\repos\passMan\passMan\obj\Debug\passMan.Form1.resources
+C:\Users\SharpSX\source\repos\passMan\passMan\obj\Debug\passMan.Properties.Resources.resources
+C:\Users\SharpSX\source\repos\passMan\passMan\obj\Debug\passMan.csproj.GenerateResource.cache
+C:\Users\SharpSX\source\repos\passMan\passMan\obj\Debug\passMan.csproj.CoreCompileInputs.cache
+C:\Users\SharpSX\source\repos\passMan\passMan\obj\Debug\passMan.exe
+C:\Users\SharpSX\source\repos\passMan\passMan\obj\Debug\passMan.pdb
+C:\Users\SharpSX\source\repos\passMan\passMan\obj\Debug\passMan.csproj.AssemblyReference.cache
